@@ -1,0 +1,8 @@
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\bin\Debug\Aula 05 - Condicao.exe.config
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\bin\Debug\Aula 05 - Condicao.exe
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\bin\Debug\Aula 05 - Condicao.pdb
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\obj\Debug\Aula 05 - Condicao.csproj.AssemblyReference.cache
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\obj\Debug\Aula 05 - Condicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\obj\Debug\Aula 05 - Condicao.csproj.CoreCompileInputs.cache
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\obj\Debug\Aula 05 - Condicao.exe
+C:\Users\joao.vbsantos37\source\repos\Aula 05 - Condicao\obj\Debug\Aula 05 - Condicao.pdb
